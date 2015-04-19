@@ -1,0 +1,19 @@
+{
+    "name": "jsdom-jscore",
+    "version": "0.1.0",
+    "description": "A fork of jsdom/jsdom-little to run within JavaScript Core on iOS, with all dependencies builtin",
+    "keywords": ["dom", "w3c", "html"],
+    "author": {
+      "name": "Brent Vatne",
+      "email": "brentvatne@gmail.com"
+    },
+    "bugs": "https://github.com/brentvatne/jsdom-jscore/issues",
+    "license": {
+        "type": "MIT",
+        "url": "http://github.com/brentvatne/jsdom-jscore/blob/master/LICENSE.txt"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/brentvatne/jsdom-little.git"
+    "main": "./lib/jsdom"
+}
